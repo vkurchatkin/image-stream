@@ -1,6 +1,6 @@
 {
   "name": "image-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Writable stream for DOM images",
   "main": "index.js",
   "author": "Vladimir Kurchatkin <vladimir.kurchatkin@gmail.com>",
